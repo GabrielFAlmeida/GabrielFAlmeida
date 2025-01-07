@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/gabriel-frnca/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!%20" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="25" alt="whatsapp logo"  />
   </a>
   <a href="mailto:gabrielfrancadealmeida00@gmail.com" target="_blank">
@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielFAlmeida/GabrielFAlmeida/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/GabrielFAlmeida/GabrielFAlmeida/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
