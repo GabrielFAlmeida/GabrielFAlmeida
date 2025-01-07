@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/gabriel-frnca/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!%20%F0%9F%91%8B" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!%20" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="25" alt="whatsapp logo"  />
   </a>
   <a href="mailto:gabrielfrancadealmeida00@gmail.com" target="_blank">
