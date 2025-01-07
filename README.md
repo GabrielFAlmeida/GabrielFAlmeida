@@ -9,19 +9,11 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h3 align="left">Sobre mim 😎</h3>
 
 ###
 
 <p align="left">Ao longo da minha trajetória descobri minha paixão por ensinar as pessoas e pela programação - que são as forças motrizes que tem mudado minha vida.<br><br>1️⃣ Em minha primeira imersão, atuei em uma startup do agronegócio, onde pude conhecer tecnologias como o Angular e NestJS. Além disso, aprimorei conceitos relacionados a HTML, CSS e trabalho em equipe.<br><br>2️⃣ Mais tarde, tive a incrível oportunidade de estar no time de tecnologia da Fluency Academy, vivenciando - na prática - soluções que transformam a vida das pessoas através da educação associada a tech. Pude aprender mais sobre landings pages e integração de CRM - que foram essenciais para aprofundar noções técnicas e de negócios.<br><br>3️⃣ Recentemente, iniciei a minha jornada como docente, para turmas de informática. Nesse cenário, tenho notado, ainda mais, a educação como caminho de transformação na vida das pessoas. <br><br>4️⃣ Além disso, nesse momento estou participando do BootCamp da DIO sobre Github+Copilot<br><br>Para mim, a nossa jornada é primeiro sobre pessoas e aprendizados, depois sobre os produtos! 📝</p>
-
-###
-
-<p align="left"></p>
 
 ###
 
@@ -44,10 +36,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
