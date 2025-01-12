@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=pt-br&hide_border=true&custom_title=Um%20pouco%20do%20meu%20GitHub:" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GabrielFAlmeida&locale=pt-br&mode=daily&theme=buefy&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
