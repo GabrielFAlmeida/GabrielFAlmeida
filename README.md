@@ -31,8 +31,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=angular" height="25" alt="angularjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="25" alt="androidstudio logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
 </div>
 
