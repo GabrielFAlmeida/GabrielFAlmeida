@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-  <div align="right">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/202176846@N03/54292173634/in/dateposted-public/" title="Octocat - Gabriel França de Almeida"><img src="https://live.staticflickr.com/65535/54292173634_cb4964fdf6_q.jpg" width="150" height="150" alt="Octocat - Gabriel França de Almeida"/></a>
-  </div>
