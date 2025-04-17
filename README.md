@@ -1,7 +1,3 @@
-  <div>
-    <img align="center"  src="https://shorturl.at/c3wfw"  />
-  </div>
-
 ###
 
 <h2 align="left">Olá! 👋🏼<br><br>Sou o Gabriel - Desenvolvedor Full Stack e Professor de Computação 👨🏼‍🏫👨🏼‍💻</h2>
