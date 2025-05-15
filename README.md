@@ -14,8 +14,11 @@
 ###
 
 <h3 align="left">Algumas estátisticas 📈</h3>
-<img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+  <img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&theme=default&show_icons=true&hide_border=true&count_private=true"/>
+  <img  height="180em"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFAlmeida&theme=default&hide_border=true"/>
+  <img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&theme=default&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 ###
 
