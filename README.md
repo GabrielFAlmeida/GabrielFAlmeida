@@ -13,6 +13,12 @@
 
 ###
 
+<h3 align="left">Algumas estátisticas 📈</h3>
+<img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&langs_count=7&theme=dark"/>
+
+###
+
 <h3 align="left">Competências pessoais e de convivência 🧠</h3>
 <ul align="left">
   <li>Proativo e empenhado no aprendizado contínuo;</li>
