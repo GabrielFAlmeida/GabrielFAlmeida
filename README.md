@@ -63,8 +63,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
