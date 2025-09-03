@@ -8,8 +8,9 @@
 
 ###
 
-<p align="left">Atuo como Desenvolvedor Full Stack e Professor de Computação, criando soluções que geram impacto para os seus usuários. Tenho 3 anos de experiência, desde de 2021, no desenvolvimento de soluções escaláveis baseadas em tecnologias como Angular, NestJS, Node.js e Typescpript.</p>
-<p align="left">Pude atuar no desenvolvimento back-end, com NestJS, e front-end, com Angular, voltados a gestão de um marketplace de grãos e indexação de mais de 80 buscas orgânicas, a partir do Google. Além disso, fui o responsável pela priorização, repasse e acompanhamento de demandas de um time de três desenvolvedores juniores - conduzindo melhorias contínuas e em prazos hábeis.</p>
+<p align="left">Sou um Desenvolvedor Full Stack com 3 anos de experiência em tecnologias web, atuando desde a sustentação de sistemas até o desenvolvimento de soluções completas em front-end e back-end. Tenho domínio de frameworks como Angular, NestJS, Node.js e Laravel, além de experiência com bancos de dados relacionais (MySQL, PostgreSQL, MariaDB) e integração de APIs.</p>
+<p align="left">Ao longo da carreira, contribui em projetos de marketplace, CRM e sistemas educacionais, aplicando também recursos de Inteligência Artificial para otimização de processos. Minha trajetória inclui atuação como professor de Computação, fortalecendo minhas habilidades de comunicação, organização e acompanhamento de resultados.</p>
+<p align="left">Sou movido por diseminar e buscar conhecimento técnico associado a visão prática para entregar soluções digitais de impacto, com foco em qualidade, prazos e colaboração em equipe.</p>
 
 ###
 
