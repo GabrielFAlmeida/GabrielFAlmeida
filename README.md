@@ -18,11 +18,13 @@
 
 ## ℹ️ Sobre mim
 
-Sou **Desenvolvedor Full Stack** com mais de **3 anos de experiência** em tecnologias web, atuando desde a sustentação e evolução de sistemas até a arquitetura e o desenvolvimento de soluções completas em front-end e back-end.
+Olá, sou o Gabriel 👋🏻
 
-Ao longo da minha trajetória, contribuí em projetos de **marketplace, CRM e sistemas educacionais**, além de aplicar recursos de **Inteligência Artificial e LLMs** para automação e otimização de processos. Minha vivência como **Professor de Computação** fortaleceu minhas habilidades de comunicação, didática, organização e acompanhamento de resultados.
+**Product Owner** e **Desenvolvedor de Produtos Digitais** com 5 anos de experiência em tecnologias, especialmente web, atuando desde a sustentação de sistemas até o desenvolvimento de soluções completas em front-end e back-end. Tenho domínio de frameworks como Angular, NestJS, Node.js e Laravel, além de experiência com bancos de dados relacionais (MySQL, PostgreSQL, MariaDB) e integração de APIs.
 
-Sou movido por buscar e disseminar conhecimento técnico associado à visão prática, sempre com foco em código limpo, qualidade de entrega, prazos e colaboração em equipe.
+Ao longo da carreira, contribui em projetos de **marketplace, CRM e sistemas educacionais**, aplicando também recursos de Inteligência Artificial para otimização de processos. Minha trajetória inclui atuação como professor de Computação, fortalecendo minhas habilidades de comunicação, organização e acompanhamento de resultados.
+
+Sou movido por compartilhar conhecimento técnico associado a visão prática para entregar soluções digitais de impacto, com foco em qualidade e conexão as causas que me movem.
 
 ---
 
@@ -37,11 +39,11 @@ Sou movido por buscar e disseminar conhecimento técnico associado à visão pr�
 | Área | Tecnologias & Práticas |
 | :--- | :--- |
 | **Front-end** | Angular, Angular Material, TypeScript, JavaScript, HTML5, CSS3 |
-| **Back-end & APIs** | Node.js, NestJS, Laravel, PHP, Arquitetura REST, Swagger (OpenAPI) |
+| **Back-end & APIs** | Node.js, Arquitetura REST, Swagger (OpenAPI) |
 | **Bancos de Dados** | MySQL, PostgreSQL, MariaDB, TypeORM |
 | **IA & Automação** | Criação de agentes de IA com LLMs (OpenAI GPT e Google Gemini) |
 | **SEO & Web** | SEO Técnico, Google Search Console, WordPress (Landing Pages) |
-| **Fluxo & Gestão** | Git, GitHub, Scrum, Kanban |
+| **Fluxo & Gestão** | Git, GitHub, Metodologias Ágeis |
 
 ---
 
@@ -68,17 +70,6 @@ Sou movido por buscar e disseminar conhecimento técnico associado à visão pr�
     <img height="175" alt="Linguagens mais usadas por Gabriel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&hide_border=true&locale=pt-br&theme=default" />
   </picture>
 </div>
-
-<!--
-DICA: Você pode descomentar a seção abaixo para destacar 2 ou 3 projetos principais ou experiências recentes!
-
----
-
-## 🚀 Projetos em Destaque
-
-- **[Nome do Projeto](https://github.com/GabrielFAlmeida/nome-do-repo)** — Breve descrição do problema resolvido e das tecnologias usadas (ex.: Angular, NestJS, PostgreSQL).
-- **[Nome do Projeto 2](https://github.com/GabrielFAlmeida/nome-do-repo-2)** — Breve descrição do impacto ou diferencial técnico (ex.: Agente de IA com Gemini/GPT).
--->
 
 ---
 
