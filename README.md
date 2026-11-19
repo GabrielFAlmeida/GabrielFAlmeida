@@ -49,10 +49,10 @@ Sou movido por compartilhar conhecimento técnico associado a visão prática pa
 
 ## 🧠 Como eu trabalho
 
-- **Aprendizado contínuo e proatividade:** sempre atualizado com boas práticas, novas arquiteturas e ferramentas que geram impacto real.
-- **Visão orientada à solução:** foco em entender a regra de negócio para entregar código sustentável e de alta qualidade.
-- **Comunicação clara e trabalho em equipe:** experiência docente aplicada ao alinhamento técnico, mentorias e colaboração multidisciplinar.
-- **Adaptabilidade e organização:** facilidade para lidar com mudanças de escopo, priorização de demandas e entregas consistentes em ambientes ágeis.
+- **Aprendizado contínuo e proatividade:** sempre atualizado com sobre práticas de produtos, negócios e ferramentas que geram impacto real.
+- **Visão orientada à solução:** foco em entender a regra de negócio para entregar com bases nas necessidades observadas.
+- **Comunicação clara e trabalho em equipe:** experiência docente aplicada ao alinhamento técnico, colaboração multidisciplinar e integração.
+- **Adaptabilidade e organização:** facilidade para lidar com priorização de demandas, gonvernança de informações e entregas consistentes em ambientes ágeis.
 
 ---
 
