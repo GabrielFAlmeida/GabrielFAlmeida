@@ -4,7 +4,7 @@
 
 ### Product Owner 🦾 | Desenvolvedor Full Stack 👨🏼‍💻
 
-*Engenheiro de Computação focado em construir soluções web completas, integrar Inteligência Artificial a processos reais e compartilhar conhecimento técnico.*
+*Engenheiro de Computação focado em construir soluções de negócio completas, integrar Inteligência Artificial a processos reais e compartilhar experiências técnicas e de equipe.*
 
 <br />
 
