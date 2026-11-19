@@ -29,7 +29,7 @@ Sou movido por buscar e disseminar conhecimento técnico associado à visão pr�
 ## 🛠️ Stack & Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,html,css,nodejs,nestjs,mysql,postgres,git,github,wordpress&perline=7" alt="Tecnologias utilizadas por Gabriel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,nestjs,mysql,postgres,git,github,wordpress&perline=5" alt="Tecnologias utilizadas por Gabriel" />
 </div>
 
 <br />
