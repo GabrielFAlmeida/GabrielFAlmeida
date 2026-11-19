@@ -2,7 +2,7 @@
 
 # Olá! 👋🏼 Eu sou o Gabriel França
 
-### Desenvolvedor Full Stack 👨🏼‍💻 | Professor de Computação 👨🏼‍🏫
+### Product Owner 🦾 | Desenvolvedor Full Stack 👨🏼‍💻
 
 *Engenheiro de Computação focado em construir soluções web completas, integrar Inteligência Artificial a processos reais e compartilhar conhecimento técnico.*
 
