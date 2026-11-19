@@ -1,87 +1,99 @@
-###
+<div align="center">
 
-<h2 align="left">Olá! 👋🏼<br><br>Sou o Gabriel - Desenvolvedor Full Stack e Professor de Computação 👨🏼‍🏫👨🏼‍💻</h2>
+# Olá! 👋🏼 Eu sou o Gabriel França
 
-###
+### Desenvolvedor Full Stack 👨🏼‍💻 | Professor de Computação 👨🏼‍🏫
 
-<h3 align="left">Sobre mim ℹ️</h3>
+*Engenheiro de Computação focado em construir soluções web completas, integrar Inteligência Artificial a processos reais e compartilhar conhecimento técnico.*
 
-###
+<br />
 
-<p align="left">Sou um Desenvolvedor Full Stack com 3 anos de experiência em tecnologias web, atuando desde a sustentação de sistemas até o desenvolvimento de soluções completas em front-end e back-end. Tenho domínio de frameworks como Angular, NestJS, Node.js e Laravel, além de experiência com bancos de dados relacionais (MySQL, PostgreSQL, MariaDB) e integração de APIs.</p>
-<p align="left">Ao longo da carreira, contribui em projetos de marketplace, CRM e sistemas educacionais, aplicando também recursos de Inteligência Artificial para otimização de processos. Minha trajetória inclui atuação como professor de Computação, fortalecendo minhas habilidades de comunicação, organização e acompanhamento de resultados.</p>
-<p align="left">Sou movido por diseminar e buscar conhecimento técnico associado a visão prática para entregar soluções digitais de impacto, com foco em qualidade, prazos e colaboração em equipe.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-frnca/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfrancadealmeida00@gmail.com)
 
-###
-
-<h3 align="left">Algumas estátisticas 📈</h3>
-<div align="left">
-  <img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&theme=default&show_icons=true&hide_border=true&count_private=true"/>
-  <!--   <img  height="180em"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFAlmeida&theme=default&hide_border=true"/> -->
-  <img  height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&theme=default&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-###
+---
 
-<h3 align="left">Competências pessoais e de convivência 🧠</h3>
-<ul align="left">
-  <li>Proativo e empenhado no aprendizado contínuo;</li>
-  <li>Solucionador de problema, que entrega soluções de alta qualidade;</li>
-  <li>Dedicado ao trabalho e integração do time;</li>
-  <li>Adaptável a mudanças de planejamento e organização das atividades.</li>
-</ul>
+## ℹ️ Sobre mim
 
-###
+Sou **Desenvolvedor Full Stack** com mais de **3 anos de experiência** em tecnologias web, atuando desde a sustentação e evolução de sistemas até a arquitetura e o desenvolvimento de soluções completas em front-end e back-end.
 
-<h3 align="left">Competências técnicas ⚙️</h3>
-<ul align="left">
-  <li>Desenvolvimento Front-end com Angular, Angular Material, HTML, CSS e Javascript;</li>
-  <li>Desenvolvimento Back-end usando Node.js, NestJS, Swagger e conceitos REST para a criação e uso de APIs;</li>
-  <li>Gestão e implementação de banco de dados relacionais, com MySQL, PostgreSQL, MariaDB e TypeORM;</li>
-  <li>Criação de agentes de AI baseados em grandes modelos de LLM, como o GPT e o Gemini;</li>
-  <li>Conhecimento em SEO técnico, para a melhoria de buscas orgânicas;</li>
-  <li>Metodologias ágeis, como Scrum e Kanban, para priorização e eficiência do trabalho.</li>
-</ul>
+Ao longo da minha trajetória, contribuí em projetos de **marketplace, CRM e sistemas educacionais**, além de aplicar recursos de **Inteligência Artificial e LLMs** para automação e otimização de processos. Minha vivência como **Professor de Computação** fortaleceu minhas habilidades de comunicação, didática, organização e acompanhamento de resultados.
 
-###
+Sou movido por buscar e disseminar conhecimento técnico associado à visão prática, sempre com foco em código limpo, qualidade de entrega, prazos e colaboração em equipe.
 
-<h3 align="left">Ferramentas auxiliares 🔨</h3>
-<ul align="left">
-  <li>Git + Github, para o controle de versões;</li>
-  <li>Google Search Console, para gestão de posicionamento de páginas web;</li>
-  <li>Wordpress, para a criação de landing pages;</li>
-</ul>
+---
 
-###
+## 🛠️ Stack & Tecnologias
 
-<h3 align="left">Posso te ajudar com 🛠️</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,html,css,nodejs,nestjs,laravel,php,mysql,postgres,git,github,wordpress&perline=7" alt="Tecnologias utilizadas por Gabriel" />
 </div>
 
-###
+<br />
 
-<h3 align="left">Vamos nos conectar 🫱🏼‍🫲🏼</h3>
+| Área | Tecnologias & Práticas |
+| :--- | :--- |
+| **Front-end** | Angular, Angular Material, TypeScript, JavaScript, HTML5, CSS3 |
+| **Back-end & APIs** | Node.js, NestJS, Laravel, PHP, Arquitetura REST, Swagger (OpenAPI) |
+| **Bancos de Dados** | MySQL, PostgreSQL, MariaDB, TypeORM |
+| **IA & Automação** | Criação de agentes de IA com LLMs (OpenAI GPT e Google Gemini) |
+| **SEO & Web** | SEO Técnico, Google Search Console, WordPress (Landing Pages) |
+| **Fluxo & Gestão** | Git, GitHub, Scrum, Kanban |
+
+---
+
+## 🧠 Como eu trabalho
+
+- **Aprendizado contínuo e proatividade:** sempre atualizado com boas práticas, novas arquiteturas e ferramentas que geram impacto real.
+- **Visão orientada à solução:** foco em entender a regra de negócio para entregar código sustentável e de alta qualidade.
+- **Comunicação clara e trabalho em equipe:** experiência docente aplicada ao alinhamento técnico, mentorias e colaboração multidisciplinar.
+- **Adaptabilidade e organização:** facilidade para lidar com mudanças de escopo, priorização de demandas e entregas consistentes em ambientes ágeis.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&show_icons=true&hide_border=true&count_private=true&locale=pt-br&theme=github_dark&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&show_icons=true&hide_border=true&count_private=true&locale=pt-br&theme=default" />
+    <img height="175" alt="Estatísticas do GitHub de Gabriel" src="https://github-readme-stats.vercel.app/api?username=GabrielFAlmeida&show_icons=true&hide_border=true&count_private=true&locale=pt-br&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&hide_border=true&locale=pt-br&theme=github_dark&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&hide_border=true&locale=pt-br&theme=default" />
+    <img height="175" alt="Linguagens mais usadas por Gabriel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlmeida&layout=compact&hide_border=true&locale=pt-br&theme=default" />
+  </picture>
+</div>
+
+<!--
+DICA: Você pode descomentar a seção abaixo para destacar 2 ou 3 projetos principais ou experiências recentes!
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **[Nome do Projeto](https://github.com/GabrielFAlmeida/nome-do-repo)** — Breve descrição do problema resolvido e das tecnologias usadas (ex.: Angular, NestJS, PostgreSQL).
+- **[Nome do Projeto 2](https://github.com/GabrielFAlmeida/nome-do-repo-2)** — Breve descrição do impacto ou diferencial técnico (ex.: Agente de IA com Gemini/GPT).
+-->
+
+---
+
+## 🫱🏼‍🫲🏼 Vamos nos conectar!
+
+Estou sempre aberto a trocar ideias sobre desenvolvimento web, arquitetura de software, Inteligência Artificial, educação em tecnologia e novas oportunidades.
+
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-frnca/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="15" />
   <a href="https://api.whatsapp.com/send?phone=5534984395855&text=Oi%2C%20vamos%20nos%20conectar!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <img width="15" />
   <a href="mailto:gabrielfrancadealmeida00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </div>
-
-###
